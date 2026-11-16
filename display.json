@@ -1,0 +1,10 @@
+{
+  "name": "Stereo Audio Goniometer & Lissajous Phase Scope",
+  "icon": "\ud83d\udd04",
+  "group": "Test & Measurement",
+  "subGroup": "Audio Scopes",
+  "description": "X-Y stereo phase display plotting Left vs Right audio signals with M/S orthogonal axes to inspect stereo width and mono compatibility.",
+  "app": "APK:Softapps/TEST/TEST.AUDIO.Goniometer/index.html",
+  "topic": "APK.audio/Test/Goniometer",
+  "autostart": false
+}
